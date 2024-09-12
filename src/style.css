@@ -33,7 +33,8 @@ button {
     cursor: pointer;
 }
 
-button:hover {
+button:hover,
+.selected {
     background-color: white;
     color: black;
 }
